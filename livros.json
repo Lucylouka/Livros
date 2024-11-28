@@ -1,0 +1,15 @@
+[
+    {
+        "titulo": "A maldição do espelho",
+        "autor": "Agatha Christie",
+        "resumo": "",
+        "genero": "",
+        "avaliacao": 8,
+        "anotacoes": "",
+        "citacoes": "",
+        "status": "Lido",
+        "emprestado": false,
+        "emprestei_para": "mafe",
+        "peguei_de": ""
+    }
+]
